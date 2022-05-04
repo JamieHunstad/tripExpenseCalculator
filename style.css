@@ -1,0 +1,56 @@
+body{
+    background: #212529;
+}
+.btn-primary{
+    background-color: #212529;
+    border-radius: 0px;
+    border: solid 1px white;
+}
+.btn-primary:hover{
+    background-color: white;
+    color: #212529;
+    border-radius: 0px;
+}
+.navbar-brand{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+}
+.form-control{
+    background-color: #212529;
+    border: none;
+    border-bottom: solid 1px white;
+    border-radius: 0;
+    padding: 0;
+    margin: 20px 0px;
+}
+.form-control:focus{
+    background-color: #212529;
+    color:white;
+    border: none;
+    border-bottom: solid 1px white;
+    border-radius: 0;
+    padding: 0;
+    margin: 20px 0px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
+}
+a{
+    color:White;
+}
+.list-group{
+    border-radius: 0%;
+}
+.list-group-item{
+    background-color: #212529;
+    color: white;
+    border: 0;
+    border-top: solid 1px white;
+    border-bottom: solid 1px white;
+}
+.list-title{
+    padding-right:20px;
+    font-weight: 600;
+}
+
